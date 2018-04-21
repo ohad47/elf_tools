@@ -1,4 +1,4 @@
 <?php
 echo "hello world"
-$myfile = fopen("webdictionary.txt", "r") or die("Unable to open file!");
+$myfile = fopen("profilePics/gigi.txt", "w") or die("Unable to open file!");
 ?>
